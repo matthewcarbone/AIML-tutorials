@@ -5,6 +5,9 @@
 _Tutorial seminars presented as part of the Brookhaven National Laboratory [AI/ML Working Group](https://www.bnl.gov/aiml/)_
 
 </div>
+
+> [!IMPORTANT]
+> This is a snapshot of the original repository at `matthewcarbone/AIML-tutorials`, which was moved on 10 April 2024 to the AIML Working Group org. Please see the [AIML Working Group Organization](https://github.com/AIMLWG) for the [maintained version of this respository](https://github.com/AIMLWG/AIML-tutorials)!
   
 # 📓 Tutorials
 
